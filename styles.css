@@ -1,14 +1,20 @@
 body{
-	margin-left: 30%;
-	margin-right: 30%;
-	background-color: #090909;
+	margin: 0;
+}
+#container{
+	width: 36rem;
+	margin: auto;
+	background-color: #131313;
 	color: #ea7200;
+	padding: 1rem;
+	outline: 2px solid;
 }
 header{
 	display: flex;
 	flex-flow: column nowrap;
 }
 footer{
+	padding-top: 1rem;
 	text-align: center;
 }
 a{
@@ -23,6 +29,9 @@ a{
 	padding: 1rem;
 }
 .card img{
-	
+	background-color: #131313;
 	max-width: 100%;
+}
+header > img{
+	border-radius: 50%;
 }
