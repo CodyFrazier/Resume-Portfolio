@@ -11,6 +11,9 @@ header{
 footer{
 	text-align: center;
 }
+a{
+	color: #0066cc;
+}
 .social{
 	position: relative;
 	top: 10px;
