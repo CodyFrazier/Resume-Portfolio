@@ -20,7 +20,9 @@ a{
 }
 .card{
 	background-color: #232323;
+	padding: 1rem;
 }
 .card img{
-	margin: 1rem;
+	
+	max-width: 100%;
 }
