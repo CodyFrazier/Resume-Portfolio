@@ -1,3 +1,6 @@
+html{
+	font-family: 'Times New Roman', 'Times', 'serif';
+}
 body{
 	margin: 0;
 	background-color: #030303;
@@ -22,6 +25,9 @@ li{
 }
 li > img{
 	padding-right: 5px;
+}
+main{
+	font-family: 'Noto Serif JP', 'serif';
 }
 footer{
 	padding-top: 1rem;
