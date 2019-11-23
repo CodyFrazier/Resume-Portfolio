@@ -21,3 +21,6 @@ a{
 .card{
 	background-color: #232323;
 }
+.card img{
+	margin: 1rem;
+}
