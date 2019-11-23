@@ -1,0 +1,8 @@
+header{
+	display: flex;
+	flex-flow: column nowrap;
+}
+.social{
+	position: relative;
+	top: 10px;
+}
