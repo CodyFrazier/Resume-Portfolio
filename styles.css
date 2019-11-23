@@ -1,8 +1,18 @@
+body{
+	background-color: #090909;
+	color: #ea7200;
+}
 header{
 	display: flex;
 	flex-flow: column nowrap;
 }
+footer{
+	text-align: center;
+}
 .social{
 	position: relative;
 	top: 10px;
+}
+.card{
+	background-color: #232323;
 }
